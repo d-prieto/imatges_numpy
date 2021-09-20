@@ -9,13 +9,19 @@ Treballem els conceptes de l'estructura d'una matriu, dimensió, eixos i la vect
 
 - Exercici 1
 
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%201.ipynb
+
 Crea un np.array d'una dimensió, que inclogui l'almenys 8 nombres sencers, data type int64. Mostra la dimensió i la forma de la matriu. .
 
 - Exercici 2
 
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%202.ipynb
+
 De la matriu de l'exercici 1, calcula el valor mitjà dels valors introduïts i resta la mitjana resultant de cada un dels valors de la matriu.
 
 - Exercici 3
+
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%203.ipynb
 
 Crea una matriu bidimensional amb una forma de 5 x 5. Extreu el valor màxim de la matriu, i els valors màxims de cadascun dels seus eixos.
 
@@ -24,6 +30,8 @@ Crea una matriu bidimensional amb una forma de 5 x 5. Extreu el valor màxim de 
 Treballem els conceptes de l'estructura d'una matriu, Broadcasting, indexació, Mask..
 
 - Exercici 4
+
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%204.ipynb
 
 Mostreu-me amb exemples de diferents matrius, la regla fonamental de Broadcasting que diu : "les matrius es poden transmetre / broadcast si les seves dimensions coincideixen o si una de les matrius té una mida d'1".
 
