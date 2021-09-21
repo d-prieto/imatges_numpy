@@ -39,6 +39,8 @@ Mostreu-me amb exemples de diferents matrius, la regla fonamental de Broadcastin
 
 Utilitza la Indexació per extreure els valors d'una columna i una fila de la matriu. I suma els seus valors.
 
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%205.ipynb
+
 - Exercici 6
 
 Mask la matriu anterior, realitzeu un càlcul booleà vectoritzat, agafant cada element i comprovant si es divideix uniformement per quatre.
