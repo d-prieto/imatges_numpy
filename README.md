@@ -47,9 +47,13 @@ Mask la matriu anterior, realitzeu un càlcul booleà vectoritzat, agafant cada 
 
 Això retorna una matriu de mask de la mateixa forma amb els resultats elementals del càlcul.
 
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%206.ipynb
+
 - Exercici 7
 
 A continuació, utilitzeu aquesta màscara per indexar a la matriu de números original. Això fa que la matriu perdi la seva forma original, reduint-la a una dimensió, però encara obteniu les dades que esteu cercant.
+
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%206.ipynb (un poco más abajo)
 
 ## Nivell 3
 
@@ -62,6 +66,8 @@ manipuleu aquests bytes i torneu a utilitzar Matplotlib per desar la imatge modi
 Ajuda:Importeu, import matplotlib.image as mpimg. estudieu el metodde mpimg.imread(()
 
 - Exercici 8
+
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%208.ipynb
 
 Mostreu-me a veure que passa quan eliminem el canal G Verd o B Blau.
 
